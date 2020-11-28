@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9707" started-at="2020-11-27T15:27:48Z" finished-at="2020-11-27T15:27:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9707" started-at="2020-11-27T15:27:48Z" finished-at="2020-11-27T15:27:58Z">
+      <class name="Test.NhsBloodDonation.HomePageTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:Test.NhsBloodDonation.HomePageTest@4cc451f2]" name="init" is-config="true" duration-ms="9410" started-at="2020-11-27T15:27:48Z" finished-at="2020-11-27T15:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SearchBoxTest()[pri:0, instance:Test.NhsBloodDonation.HomePageTest@4cc451f2]" name="SearchBoxTest" duration-ms="208" started-at="2020-11-27T15:27:58Z" finished-at="2020-11-27T15:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBoxTest -->
+        <test-method status="PASS" signature="Title_Test()[pri:0, instance:Test.NhsBloodDonation.HomePageTest@4cc451f2]" name="Title_Test" duration-ms="64" started-at="2020-11-27T15:27:58Z" finished-at="2020-11-27T15:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title_Test -->
+      </class> <!-- Test.NhsBloodDonation.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
